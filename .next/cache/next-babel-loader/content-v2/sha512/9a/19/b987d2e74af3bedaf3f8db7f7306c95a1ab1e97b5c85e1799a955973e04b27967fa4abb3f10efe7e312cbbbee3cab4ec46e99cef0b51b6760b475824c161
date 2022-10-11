@@ -1,0 +1,1 @@
+{"ast":null,"code":"function Index() {}\n\nexport default Index();","map":{"version":3,"sources":["D:/React/Nextjs/meetup-demo/pages/index.js"],"names":["Index"],"mappings":"AAAA,SAASA,KAAT,GAAiB,CAAE;;AAEnB,eAAeA,KAAK,EAApB","sourcesContent":["function Index() {}\r\n\r\nexport default Index();\r\n"]},"metadata":{},"sourceType":"module"}
